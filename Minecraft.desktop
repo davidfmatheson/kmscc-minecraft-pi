@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Minecraft
+Exec=/opt/minecraft-pi-reborn-client-2.4.3-arm64.AppImage
+Icon=/opt/minecraft-icon.png
+comment=cloud
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Categories=Game;
